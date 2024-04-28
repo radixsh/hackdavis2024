@@ -1,0 +1,14 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <br>   <img src=\"https://github.com/MitchDorrestijn/QuizFall2017_Mitch_Sjoerd/blob/master/quizzerLogo.png?raw=true\" alt=\"Quizzer\" width=\"500\">   <br><br>   fall2017-quizz-MitchEnSjoerd   <br> </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "start": "^5.1.0"
+  }
+}

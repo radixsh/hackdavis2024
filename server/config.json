@@ -1,0 +1,8 @@
+{
+	"port": 5000,
+    "username": "radish",
+    "passwd": "F59TcJr2pWsbyoJj",
+    "dbHost": "meetupp.ub0hgco.mongodb.net",
+	"dbName": "meetupp",
+	"questionsPerRound": 5 
+}
